@@ -1,0 +1,7 @@
+[package]
+name = "rusting"
+description = "weird alternative to unwrap/expect"
+version = "0.1.0"
+authors = ["Lukáš Hozda <luk.hozda@gmail.com>"]
+
+[dependencies]
