@@ -26,3 +26,5 @@ impl<T, F> Rust<T, F> for Option<T>
 		}
 	}
 } 
+
+pub fn e<T: ::std::fmt::Display>(e: T) { println!("doesn't rust: {}", e); }
